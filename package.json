@@ -9,8 +9,8 @@
     "server": "node dist/server/entry.mjs"
   },
   "dependencies": {
-    "@astrojs/node": "^9.5.2",
-    "astro": "^5.16.10"
+    "@astrojs/node": "^11.1.5",
+    "astro": "^7.3.2"
   },
   "devDependencies": {
     "@tailwindcss/vite": "latest"
